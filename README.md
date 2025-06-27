@@ -1,6 +1,6 @@
 # 🦖 SREX – Shopee Review Extractor
 
-A Tampermonkey userscript that automatically extracts Shopee Indonesia reviews (username, rating, date, and review text) into clean JSON format — supports auto-pagination, dark mode, and has a modern toggleable UI.
+A Tampermonkey userscript that automatically extracts Shopee Indonesia reviews (username, rating, date, and review text) into clean JSON format — supports auto-pagination, dark mode, and has a modern toggleable UI. THe extrat data then can be saved and upload to Any Ai to analysis the product review wheter review legit or fake and product good or bad and recomendation from AI
 
 📌 [🇮🇩 Langsung ke Panduan Bahasa Indonesia](#📘-panduan-dalam-bahasa-indonesia)
 
@@ -21,8 +21,8 @@ A Tampermonkey userscript that automatically extracts Shopee Indonesia reviews (
 
 1. Install [**Tampermonkey**](https://www.tampermonkey.net/)  
 2. Visit this script page on GreasyFork:  
-   👉 **[Install on GreasyFork](https://greasyfork.org/en/scripts/YOUR-SCRIPT-ID)**  
-3. Go to any Shopee Indonesia product page and click the **Reviews** tab.
+   👉 **[Install on GreasyFork](https://greasyfork.org/en/scripts/540935-shopee-review-json-parser)**  
+3. Go to any Shopee Indonesia product page and go to **Reviews** tab.
 
 ---
 
@@ -58,7 +58,7 @@ misuse, or legal issues arising from the use of this script.
 
 ## 🦖 SREX – Shopee Review Extractor
 
-Sebuah *userscript* Tampermonkey yang secara otomatis mengekstrak ulasan produk dari Shopee Indonesia (username, rating, tanggal, dan isi ulasan) ke dalam format JSON yang rapi — mendukung auto-pagination, mode gelap, dan UI modern yang bisa di-toggle.
+Sebuah *userscript* Tampermonkey yang secara otomatis mengekstrak ulasan produk dari Shopee Indonesia (username, rating, tanggal, dan isi ulasan) ke dalam format JSON yang rapi — mendukung auto-pagination, mode gelap, dan UI modern yang bisa di-toggle. Data yang di ambil bisa kemudian disimpan dan di upload ke Ai manapun untuk dianalisis untuk mengetahu apakah review asli atau bot, dan produk baik atau buruk serta verdict dari AI.
 
 📌 [🇮🇩 Langsung ke Panduan Bahasa Indonesia](#📘-panduan-dalam-bahasa-indonesia)
 
@@ -79,8 +79,8 @@ Sebuah *userscript* Tampermonkey yang secara otomatis mengekstrak ulasan produk 
 
 1. Pasang [**Tampermonkey**](https://www.tampermonkey.net/)  
 2. Buka halaman skrip ini di GreasyFork:  
-   👉 **[Pasang dari GreasyFork](https://greasyfork.org/en/scripts/YOUR-SCRIPT-ID)**  
-3. Buka halaman produk Shopee Indonesia, lalu klik tab **Ulasan**.
+   👉 **[Pasang dari GreasyFork](https://greasyfork.org/en/scripts/540935-shopee-review-json-parser)**  
+3. Buka halaman produk Shopee Indonesia, lalu Pergi ke bagian **Ulasan**.
 
 ---
 
