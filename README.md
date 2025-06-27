@@ -41,7 +41,7 @@ A Tampermonkey userscript that automatically extracts Shopee Indonesia reviews (
 ---
 
 
-[SREX UI Screenshot](images/demo.png)
+![Tangkapan Layar SREX UI](images/demo.png)
 
 ## License
 MIT License
